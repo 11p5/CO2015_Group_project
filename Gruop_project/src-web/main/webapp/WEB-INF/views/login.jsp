@@ -3,12 +3,12 @@
 <Head>
 <link rel="styleSheet" type="text/css" href="style.css">
 <Title>
-regitation
+login
 </Title>
 </Head>
 <Body>
 <p>welcome</p>
-<a href="login.jsp">login</a>
+<a href="webpage.jsp">regitation</a>
 <form>
 First name:<br>
 <input type="text" name="firstname"><br>
@@ -20,10 +20,6 @@ Password:<br>
 <input type="text" name="password"><br>
 re-password:<br>
 <input type="text" name="password"><br>
-Guest:<br>
-<input type="button" name="login as guest">
-Login:<br>
-<input type="button" name="login">
 </form>
 </Body>
 <footer>

@@ -1,0 +1,28 @@
+body{
+	font-family:Ariel, Arial Black, sans-serif,"Times New Romen", Times, serif,Palatino;
+	font-color: black;
+	font-size: 5px;
+	padding: 10px;
+	background-color: white;
+}
+h1{
+	font-family:Ariel, Arial Black, sans-serif,"Times New Romen", Times, serif,Palatino;
+	font-color: black;
+	font-size: 10px;
+	padding: 10px;
+	background-color: white
+}
+head{
+	font-family:Ariel, "Arial Black", sans-serif,"Times New Romen",Times,serif,Palatino;
+	font-color: black;
+	font-size: 5px;
+	padding: 10px;
+	background-color: white;
+}
+form{
+	font-family:Ariel, "Arial Black",sans-serif,"Times New Romen",Times,serif,Palatino;
+	font-color: black;
+	font-size:5px;
+	padding: 10px;
+	background-color: white;
+}
